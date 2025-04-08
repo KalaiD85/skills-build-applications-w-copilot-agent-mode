@@ -1,4 +1,4 @@
-## Step 3: Initialize and create the octofit_db MongoDB database, Django project/app, update Django project/app files, and populate the MongoDB database
+# Step 3: Initialize and create the octofit_db MongoDB database, Django project/app, update Django project/app files, and populate the MongoDB database
 
 In this step, we will accomplish the following:
 
